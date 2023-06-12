@@ -1,2 +1,2 @@
 # Expanding-Cards
-View Project: expanding-images-cards.netlify.app
+View Project: https://expanding-images-cards.netlify.app
